@@ -12,7 +12,7 @@ V. Isualize, CEO of PyBer has asked me to complete a summary of ride-sharing dat
 ![Summary DataFrame](https://user-images.githubusercontent.com/80215894/114280912-7d26a580-9a09-11eb-92d0-d9080939ea3c.png)
 	
 - A multiple line plot was created that shows the total weekly fares for each type of city from Jan 1, 2019 through April 29, 2019.
-	- Weekly fares were fairly consistent for all city types throughout the period with all city types seeing a slight spike in fare the third week of February. As shown in the summary DataFrame, the Urban cities had more fares, with the Suburban cites coming next and the Rural cities had the lowest total fares.
+	- Weekly fares were fairly consistent for all city types throughout the period with all city types seeing a slight spike in fare the third week of February. As shown in the summary DataFrame, the Urban cities had higher fare totals, with the Suburban cites coming next and the Rural cities had the lowest total fares.
 ![PyBer_Fare_summary](https://user-images.githubusercontent.com/80215894/114280919-83b51d00-9a09-11eb-97a2-69e747522b50.png)
 	
 # Summary
